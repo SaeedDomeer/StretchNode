@@ -4,6 +4,7 @@ from maya import OpenMaya
 from maya import OpenMayaMPx
 
 '''
+Copy StretchNode.py file to your /maya/plug-ins/ folder.
 To load the node use the following command
 cmds.loadPlugin("stretchNode.py")
 To craete the node use the following command
